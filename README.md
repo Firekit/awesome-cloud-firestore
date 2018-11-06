@@ -22,6 +22,11 @@
   - [Why should I use Firebase Firestore instead of Firebase Real-time Database, or vice versa?](https://www.quora.com/Why-should-I-use-Firebase-Firestore-instead-of-Firebase-Real-time-Database-or-vice-versa-Or-should-I-not-use-either)
 - [Choosing between Cloud Firestore and Cloud Datastore](https://cloud.google.com/datastore/docs/firestore-or-datastore)
 
+## RxFire
+
+- [Introducing RxFire: Easy async Firebase for all frameworks](https://firebase.googleblog.com/2018/09/introducing-rxfire-easy-async-firebase.html)
+- [RxFire Samples](https://github.com/davideast/rxfire-samples)
+
 ## Videos
 
 - [Get to know Cloud Firestore](https://www.youtube.com/playlist?list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ)
