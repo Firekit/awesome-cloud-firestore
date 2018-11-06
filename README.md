@@ -9,6 +9,8 @@
 - [Get data](https://firebase.google.com/docs/firestore/query-data/get-data) - Learn more about how to retrieve data.
 - [Perform simple and compound queries](https://firebase.google.com/docs/firestore/query-data/queries) - Learn how to run simple and compound queries.
 - [Order and limit queries](https://firebase.google.com/docs/firestore/query-data/order-limit-data) - Learn how to order and limit the data returned by your queries.
+- [Cloud Firestore emulator](https://firebase.google.com/docs/firestore/security/test-rules-emulator) - Test your Cloud Firestore Security Rules.
+- [Use the Cloud Firestore REST API](https://firebase.google.com/docs/firestore/use-rest-api)
 
 ## Codelabs
 
@@ -21,6 +23,13 @@
 - [Compare Cloud Firestore and Realtime Database](https://firebase.google.com/docs/firestore/rtdb-vs-firestore)
   - [Why should I use Firebase Firestore instead of Firebase Real-time Database, or vice versa?](https://www.quora.com/Why-should-I-use-Firebase-Firestore-instead-of-Firebase-Real-time-Database-or-vice-versa-Or-should-I-not-use-either)
 - [Choosing between Cloud Firestore and Cloud Datastore](https://cloud.google.com/datastore/docs/firestore-or-datastore)
+
+## Full-text search
+
+- [Full-text search via Algolia](https://firebase.google.com/docs/firestore/solutions/search)
+  - [Cloud Functions template](https://github.com/firebase/functions-samples/blob/master/fulltext-search-firestore/README.md)
+- [Search on top of your Firebase data with Algolia](https://www.algolia.com/doc/tutorials/indexing/3rd-party-service/firebase-algolia/)
+- [How to add fast realtime search to your Firebase app with Algolia](https://itnext.io/how-to-add-fast-realtime-search-to-your-firebase-app-with-algolia-2491f7698d52)
 
 ## RxFire
 
@@ -40,3 +49,5 @@
 
 - [I dropped 95% of my Firebase bundle size using this one weird trick](https://davidea.st/articles/firebase-bundle-size)
   - [Simplify Web Worker code with Comlink](https://davidea.st/articles/comlink-simple-web-worker)
+- [Building a “Serverless” RESTful API with Cloud Functions, Firestore and Express](https://itnext.io/building-a-serverless-restful-api-with-cloud-functions-firestore-and-express-f917a305d4e6)
+- [Typeahead Autocomplete With Firestore](https://angularfirebase.com/lessons/typeahead-autocomplete-with-firestore/)
