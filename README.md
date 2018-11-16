@@ -24,6 +24,13 @@
   - [Why should I use Firebase Firestore instead of Firebase Real-time Database, or vice versa?](https://www.quora.com/Why-should-I-use-Firebase-Firestore-instead-of-Firebase-Real-time-Database-or-vice-versa-Or-should-I-not-use-either)
 - [Choosing between Cloud Firestore and Cloud Datastore](https://cloud.google.com/datastore/docs/firestore-or-datastore)
 
+## Authentication
+
+- [Auth0 - Developing Real-Time Apps with Firebase and Firestore](https://auth0.com/blog/developing-real-time-apps-with-firebase-and-firestore/)
+  - [Anomaly Detection](https://auth0.com/docs/anomaly-detection)
+  - [Multi-factor Authentication in Auth0](https://auth0.com/docs/multifactor-authentication)
+  - [Silent Authentication](https://auth0.com/docs/api-auth/tutorials/silent-authentication)
+
 ## Full-text Search
 
 - [Full-text search via Algolia](https://firebase.google.com/docs/firestore/solutions/search)
